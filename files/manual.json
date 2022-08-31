@@ -1,0 +1,11 @@
+{
+    "buy": {},
+    "sell": {},
+    "strategy": "manual",
+    "symbola": "BTC",
+    "symbolb": "USDT",
+    "pricebuy": 0,
+    "stopper": 0,
+    "user": "backtest",
+    "pricesell": 0
+}

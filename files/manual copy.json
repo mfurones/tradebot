@@ -1,0 +1,27 @@
+{
+    "buy": {
+        "symbol": "BTCUSDT",
+        "orderId": -1,
+        "orderListId": -1,
+        "clientOrderId": "backtestbuy",
+        "transactTime": 1507725176595,
+        "price": "0.00000000",
+        "origQty": "0.00106000",
+        "executedQty": "0.00106000",
+        "cummulativeQuoteQty": "25.16786620",
+        "status": "FILLED",
+        "timeInForce": "GTC",
+        "type": "MARKET",
+        "side": "BUY",
+        "strategyId": 1,
+        "strategyType": 1000000
+    },
+    "sell": {},
+    "strategy": "manual",
+    "symbola": "BTC",
+    "symbolb": "USDT",
+    "pricebuy": "20817",
+    "stopper": 22000,
+    "user": "backtest",
+    "pricesell": 20724.80096623
+}
